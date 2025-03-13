@@ -123,20 +123,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Made with 💛 and 🥚
 
-```plaintext
 
-This README provides a comprehensive overview of your Cluck O'Clock egg timer project. It includes:
-
-1. A brief introduction and screenshot
-2. Key features
-3. Technologies used
-4. Installation and setup instructions
-5. Usage guide
-6. Deployment information
-7. Customization options
-8. Contributing guidelines
-9. License information
-10. Acknowledgements
-
-Feel free to adjust any details to better match your specific implementation or preferences. You might also want to add a real screenshot or GIF of your application in action once it's fully styled and deployed.
-```
