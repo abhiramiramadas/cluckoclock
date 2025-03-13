@@ -7,6 +7,8 @@
 
 Cluck O'Clock is a cute, interactive egg timer web application built with Next.js and Tailwind CSS. It helps you cook the perfect egg by providing preset timers for different egg consistencies.
 
+website preview: [website](https://v0-cluckoclock.vercel.app/)
+
  ![image](https://github.com/user-attachments/assets/71fff2b3-a9c7-4c2a-aced-ba1e5e6228da)
 
 ## Features
